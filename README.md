@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- I am strong at Blockchain development, building & testing SmartContracts using Solidity, NULS blockchain world and working on the UI with Web3 and Ethers.js, ... 
+## And I am looking to collaborate on crypto projects ... 
 <!--
 **AndresMarques/AndresMarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
